@@ -48,10 +48,10 @@ I am results-oriented, constantly checking in with the goal to determine how clo
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shivam-gupta1808/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/shivam_888/)| [<img src="https://github.blog/wp-content/uploads/2008/04/850ca01a-5772-11e3-8eee-20a11ca6534f.png" alt="Github logo" width="34">](https://github.com/shivam1808) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" alt="HackerEarth Logo" width="30">](https://www.hackerearth.com/@shivam_888) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo" width="28">](https://www.hackerrank.com/shivamgupta18) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:shivamguptasg1808@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
+![Code](https://blog.penjee.com/wp-content/uploads/2015/11/while-loop-if-else-even-vs-odd-animation-how-it-works.gif)
 
 <p align="center"> 
- <b> Can you break this count?</b><br>
+ <b>Lets count the visitors!</b><br>
   <img src="https://profile-counter.glitch.me/shivam1808/count.svg" />
 </p>
 
